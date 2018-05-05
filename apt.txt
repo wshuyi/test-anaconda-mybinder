@@ -1,0 +1,4 @@
+libblas3
+liblapack3
+libstdc++6
+python-setuptools
