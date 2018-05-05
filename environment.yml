@@ -7,8 +7,6 @@ channels:
 dependencies:
   - ca-certificates=2018.03.07=0
   - certifi=2018.4.16=py36_0
-  - libcxx=4.0.1=h579ed51_0
-  - libcxxabi=4.0.1=hebd6815_0
   - libedit=3.1=hb4e282d_0
   - libffi=3.2.1=h475c297_4
   - ncurses=6.0=hd04f020_2
@@ -60,4 +58,3 @@ dependencies:
     - urllib3==1.22
     - wcwidth==0.1.7
 prefix: /anaconda2/envs/test-anaconda-mybinder
-
