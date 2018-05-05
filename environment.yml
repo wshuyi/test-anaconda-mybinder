@@ -1,3 +1,4 @@
 dependencies:
   - python=3
-  - turicreate
+  - pip:
+    - turicreate
